@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![download](https://user-images.githubusercontent.com/95210986/185114868-d231b26f-a961-4277-987e-40d5e107e1ff.png)
+
+
 <!--
 **kaRIOz/kaRIOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
