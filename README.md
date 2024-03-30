@@ -1,21 +1,43 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+iman...;junior+frontend+developer;&center=true&width=500&height=50"></a>
+</p>
 
-![download](https://user-images.githubusercontent.com/95210986/185115149-fd138347-d591-4479-9585-785559f53874.png)
-![download](https://user-images.githubusercontent.com/95210986/185115348-9950d2f9-239a-435a-9e9f-1d2aa2f5b92b.png)
-![download](https://user-images.githubusercontent.com/95210986/185115601-2130de6b-ee15-4ac0-9519-805a202db507.jpg)
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind css-9ad5e6.svg?style=for-the-badge&logo=tailwind css&logoColor=#06d6b4">
+  <img src="https://img.shields.io/badge/git-F26624.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=#61dafb">
+  <img src="https://img.shields.io/badge/redux-764abc.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQl-e10098.svg?style=for-the-badge&logo=GraphQl&logoColor=white">
+</div>
+</p>
+
+### <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611itt2vbsd2opsffaqndzix9vswf0zr0bkfqxghvkv&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30"> coding...
 
 
+<br/>
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=kaRIOz&show_icons=true&include_all_commits=true&theme=react&hide_border=true">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaRIOz&theme=react&hide_border=true&border_radius=8&mode=weekly" alt="GitHub Streak" /></a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaRIOz&hide_progress=true&theme=react&hide_border=true">
+  </a>
+</p>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">I’m currently ...
+I’m currently learning react
 <!--
 **kaRIOz/kaRIOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
