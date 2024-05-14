@@ -36,6 +36,7 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaRIOz&hide_progress=true&theme=react&hide_border=true">
   </a>
 </p>
+<img src='https://www.codewars.com/users/kaRIOz/badges/micro'>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">I’m currently ...
 I’m currently learning react
