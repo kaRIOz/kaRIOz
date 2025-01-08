@@ -4,10 +4,11 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/sass-FFC0CB.svg?style=for-the-badge&logo=sass&logoColor=red">
   <img src="https://img.shields.io/badge/tailwind css-9ad5e6.svg?style=for-the-badge&logo=tailwind css&logoColor=#06d6b4">
+  <img src="https://img.shields.io/badge/JavaScript-f5c425.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/git-F26624.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
