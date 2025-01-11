@@ -40,6 +40,6 @@
 <img src='https://www.codewars.com/users/kaRIOz/badges/micro'>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">I’m currently ...
-I’m currently learning react
+I’m currently learning next js
 <!--
 **kaRIOz/kaRIOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
