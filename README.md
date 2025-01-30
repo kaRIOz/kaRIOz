@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/sass-FFC0CB.svg?style=for-the-badge&logo=sass&logoColor=red">
   <img src="https://img.shields.io/badge/tailwind css-9ad5e6.svg?style=for-the-badge&logo=tailwind css&logoColor=#06d6b4">
-  <img src="https://img.shields.io/badge/JavaScript-f5c425.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/JavaScript-f5c425.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-1d63ed.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/git-F26624.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
@@ -17,8 +18,10 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=#61dafb">
+  <img src="https://img.shields.io/badge/Next-000.svg?style=for-the-badge&logo=next&logoColor=white">
   <img src="https://img.shields.io/badge/redux-764abc.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQl-e10098.svg?style=for-the-badge&logo=GraphQl&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-1d63ed.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
 </p>
 
