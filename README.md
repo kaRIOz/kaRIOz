@@ -31,7 +31,6 @@
 </div>
 </p>
 
-### <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611itt2vbsd2opsffaqndzix9vswf0zr0bkfqxghvkv&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30"> coding...
 
 
 <br/>
@@ -46,7 +45,11 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaRIOz&hide_progress=true&theme=react&hide_border=true">
   </a>
 </p>
+<div class:=' display: flex;'>
+<img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611itt2vbsd2opsffaqndzix9vswf0zr0bkfqxghvkv&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30">
 <img src='https://www.codewars.com/users/kaRIOz/badges/micro'>
+</div>
+  
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">I’m currently ...
 I’m currently learning next js
