@@ -35,10 +35,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaRIOz&hide_progress=true&theme=react&hide_border=true">
 </p>
 <br/>
-<p align="center">
-  <a href="http://torrinleonard.com/">
-  </a>
-</p>
 <div class:=' display: flex;'>
   <img src="https://media4.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611itt2vbsd2opsffaqndzix9vswf0zr0bkfqxghvkv&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30">
   <img src='https://www.codewars.com/users/kaRIOz/badges/micro'>
